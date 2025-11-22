@@ -1,2 +1,2 @@
 # JWT-Json-Web-Token
-All about JWT
+Basic JWT Encoder/Decoder
